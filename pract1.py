@@ -4,6 +4,7 @@ a = 5
 b = 6
 c = 7
 d = 10
+e = 12
 
 # Uncomment below to take inputs from the user
 # a = float(input('Enter first side: '))
